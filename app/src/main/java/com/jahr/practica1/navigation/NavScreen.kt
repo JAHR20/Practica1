@@ -6,6 +6,13 @@ enum class NavScreen {
     ProductoScreen,
     BlogScreen,
     CuentaScreen,
+    TutorialesScreen,
+    AtencionAClientesScreen,
+    InfoScreen,
+
+    TemaScren,
+    NotificacionesScreen,
+    GuardadoScreen
 
     //Agregar una ruta más
 }

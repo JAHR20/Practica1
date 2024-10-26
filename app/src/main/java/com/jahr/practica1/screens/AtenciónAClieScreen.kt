@@ -4,6 +4,6 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 
 @Composable
-fun CuentaScreen(){
-    Text(text = " Esto es CuentaScreen")
+fun AtencionAClienteScreen(){
+    Text(text = " Esto es AtencionAClienteScreen")
 }
